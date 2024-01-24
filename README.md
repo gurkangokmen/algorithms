@@ -29,3 +29,112 @@
 | `HashSet`     |keeping a set of unique tags associated with a blog post| HashSet<String> planes = new HashSet<String>();   |      
 | `Array`     | | String[] myCars = {"Volvo", "BMW", "Ford", "Mazda"};   | String[] myPhones = new String[10]; | int[] myNumbers = {10, 20, 30, 40}; | String[][] myLovers = new String[3][5]; | String[][] myGames = { {"The Witcher 3: Wild Hunt", "Gta 5", "Forza Horizon 5", "60 Seconds"}, {"Brawl Stars", "Clash Of Clans", "Clash Royale"} };|
 | `Vector` | | Vector<String> cars = new Vector<String>(); |
+
+### Type conversion
+
+#### ----------------------- Primitive Data Types and String -----------------------
+
+####  `floating point number` to `int`
+
+```java
+int myNumber = (int) 10.9; //converted to 10
+```
+
+#### `boolean` to `int`
+
+```java
+boolean myCondition = false;
+int myNumber = myCondition ? 1: 0; //converted to 1 or 0
+```
+
+#### `int` to `boolean`
+
+```java
+int myInt = 0;
+boolean myBoolean = (myInt == 1) ? true : false;
+```
+
+#### `char` to `int`
+
+```java
+char myChar = 't';
+int myNumber = (int) myChar; // converted to 116
+```
+#### `int` to `char`
+
+```java
+int myInt = 65; // ASCII code for 'A'
+char myChar = (char) myInt;
+```
+
+#### `char` to `String`
+
+```java
+char myChar = 't';
+String myString = "" + myChar;
+```
+
+```java
+char myChar = 't';
+String myString = String.valueOf(myChar);
+```
+
+```java
+char myChar = 't';
+String myString = Character.toString(myChar);
+```
+
+#### `String` to `char`
+
+```java
+String myString = "Hello";
+char myChar = myString.charAt(0);
+```
+
+#### ----------------------- Array and String -----------------------
+
+#### `String` to `Array (char)`
+
+```java
+String myString = "Hello";
+char[] myCharArray = myString.toCharArray();
+```
+
+#### `Array (char)` to `String`
+
+```java
+char[] myCharArray = {'H','e','l','l','o'};
+String myString = new String(myCharArray);
+```
+
+#### ----------------------- Array and List -----------------------
+
+#### `Array` to `ArrayList`
+
+```java
+String[] myStringArray = {"apple", "banana", "orange"};
+List<String> myArrayList = new ArrayList<>();
+for (String element : myStringArray) {
+myArrayList.add(element);
+}
+```
+
+```java
+String[] myStringArray = {"apple", "banana", "orange"};
+List<String> myArrayList = new ArrayList<>(Arrays.asList(myStringArray));
+```
+
+
+#### `ArrayList` to `Array`
+
+```java
+ArrayList<String> myArrayList = new ArrayList<String>();
+myArrayList.add("apple");
+myArrayList.add("banana");
+myArrayList.add("orange");
+
+String[] myStringArray = new String[myArrayList.size()];
+
+myStringArray = myArrayList.toArray(myStringArray);
+System.out.println("Array: " + Arrays.toString(myStringArray));
+```

@@ -113,6 +113,18 @@ int myInt = 10;
 String myString  = String.format("%02d", myInt);
 ```
 
+#### `String` to `int`
+
+```java
+String myString = "10";
+int myInt  = Integer.parseInt(myString);
+```
+
+```java
+String myString = "10";
+int myInt  = Integer.valueOf(myString);
+```
+
 #### ----------------------- Array and String -----------------------
 
 #### `String` to `Array (char)`

@@ -91,6 +91,28 @@ String myString = "Hello";
 char myChar = myString.charAt(0);
 ```
 
+#### `int` to `String`
+
+```java
+int myInt = 10;
+String myString  = Integer.toString(myInt);
+```
+
+```java
+int myInt = 10;
+String myString  = String.valueOf(myInt);
+```
+
+```java
+int myInt = 10;
+String myString  = "" + myInt;
+```
+
+```java
+int myInt = 10;
+String myString  = String.format("%02d", myInt);
+```
+
 #### ----------------------- Array and String -----------------------
 
 #### `String` to `Array (char)`

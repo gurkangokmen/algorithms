@@ -22,13 +22,13 @@
 
 | Data Type         |When and Why?| Example 1                    | Example 2                   | Example 3 | Example 4 | Example 5 |
 | --------------- | ------------------------------ |------------------------------ |------------------------------ | ------------------------------ | ------------------------------ | ------------------------------ |
-| `String`   | | String myString = new String("Hello, world!");   | String myString2 = "Hello, world!";   |
-| `ArrayList`     |for storing and accessing data | ArrayList<String> cars = new ArrayList<String>();   |
-| `LinkedList`     |for manipulate data, Implementing a queue or a stack | LinkedList<String> tractors = new LinkedList<String>(); |
-| `HashMap`     | storing user information with their unique user IDs as keys | HashMap<String, String> capitals = new HashMap<String, String>();   |
-| `HashSet`     |keeping a set of unique tags associated with a blog post| HashSet<String> cars = new HashSet<String>();   |      
-| `Array`     | | String[] myCars = {"Volvo", "BMW", "Ford", "Mazda"};   | String[] myPhones = new String[10]; | int[] myNumbers = {10, 20, 30, 40}; | String[][] myLovers = new String[3][5]; | String[][] myGames = { {"The Witcher 3: Wild Hunt", "Gta 5", "Forza Horizon 5", "60 Seconds"}, {"Brawl Stars", "Clash Of Clans", "Clash Royale"} };|
-| `Vector` | | Vector<String> cars = new Vector<String>(); |
+| `String`   | | `String myString = new String("Hello, world!");`   | `String myString2 = "Hello, world!";`   |
+| `ArrayList`     |for storing and accessing data | `ArrayList<String> cars = new ArrayList<String>();`   |
+| `LinkedList`     |for manipulate data, Implementing a queue or a stack | `LinkedList<String> tractors = new LinkedList<String>();` |
+| `HashMap`     | storing user information with their unique user IDs as keys | `HashMap<String, String> capitals = new HashMap<String, String>();`   |
+| `HashSet`     |keeping a set of unique tags associated with a blog post| `HashSet<String> cars = new HashSet<String>();`   |      
+| `Array`     | | `String[] myCars = {"Volvo", "BMW", "Ford", "Mazda"};`   | `String[] myPhones = new String[10];` | `int[] myNumbers = {10, 20, 30, 40};` | `String[][] myLovers = new String[3][5];` | `String[][] myGames = { {"The Witcher 3: Wild Hunt", "Gta 5", "Forza Horizon 5", "60 Seconds"}, {"Brawl Stars", "Clash Of Clans", "Clash Royale"} };`|
+| `Vector` | | `Vector<String> cars = new Vector<String>();` |
 
 ### Type conversion
 

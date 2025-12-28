@@ -30,7 +30,7 @@ PS E:\Computer Science\Algorithms\algorithms\Basic Programs\EvenOrOdd> java Even
 6. ***Swap two numbers*** without using third variable approach 3. [[Solution]](Basic%20Programs/SwapNumbers/SwapNumbersApproach3/SwapNumbersApproach3.java)
 7. How to check the given number is ***Positive or Negative*** in Java? [[Solution]](Basic%20Programs/PositiveOrNegative/PositiveOrNegative.java)
 8. Write a Java Program to find whether given number is ***Leap year or NOT***? [[Solution]](Basic%20Programs/LeapYear/LeapYear.java)
-9. Write a Java Program to Print 1 To 10 Without Using Loop. [[Solution]](InterviewPrograms/src/com/java/basic/Print10WithoutLoop.java)
+9. Write a Java Program to Print 1 To 10 Without Using Loop. [[Solution]](Basic%20Programs/Print10WithoutLoop/Print10WithoutLoop.java)
 10. Write a Java Program to print the ***digits of a Given Number***. [[Solution]](InterviewPrograms/src/com/java/basic/DigitsOfNumber.java)
 11. Write a Java Program to print all the ***Factors of the Given number***. [[Solution]](InterviewPrograms/src/com/java/basic/FactorsOfANumber.java)
 12. Write a Java Program to find ***sum of the digits of a given number***. [[Solution]](InterviewPrograms/src/com/java/numbers/SumOfDigits.java)

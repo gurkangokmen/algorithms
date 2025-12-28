@@ -22,9 +22,9 @@ PS E:\Computer Science\Algorithms\algorithms\Basic Programs\EvenOrOdd> java Even
 
 #### 1. Basic Programs
 
-1. Check the given number is ***EVEN or ODD***. [[Solution]](InterviewPrograms/src/com/java/basic/.java)
-2. Write a Java Program to find the ***Factorial*** of given number. [[Solution]](InterviewPrograms/src/com/java/basic/Factorial.java)
-3. Find the ***Factorial*** of a number using ***Recursion***. [[Solution]](InterviewPrograms/src/com/java/basic/FactorialUsingRecursion.java)
+1. Check the given number is ***EVEN or ODD***. [[Solution]](Basic%20Programs/EvenOrOdd/EvenOrOdd.java)
+2. Write a Java Program to find the ***Factorial*** of given number. [[Solution]](Basic%20Programs/Factorial/Basic/Factorial.java)
+3. Find the ***Factorial*** of a number using ***Recursion***. [[Solution]](Basic%20Programs/Factorial/Recursion/Factorial.java)
 4. ***Swap two numbers*** without using third variable approach 1. [[Solution]](InterviewPrograms/src/com/java/basic/SwapApproach1.java)
 5. ***Swap two numbers*** without using third variable approach 2. [[Solution]](InterviewPrograms/src/com/java/basic/SwapApproach2.java)
 6. ***Swap two numbers*** without using third variable approach 3. [[Solution]](InterviewPrograms/src/com/java/basic/SwapApproach3.java)

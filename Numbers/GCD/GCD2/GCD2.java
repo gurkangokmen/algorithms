@@ -1,3 +1,4 @@
+package GCD2;
 class GCD2 {
 
     // euclidean algorithm

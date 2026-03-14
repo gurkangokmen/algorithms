@@ -1,7 +1,7 @@
 import java.util.List;
 import java.util.ArrayList;
 
-class DGC {
+class GCD {
     public static void main(String[] args) {
        System.out.println(gcd(12, 18));
     }

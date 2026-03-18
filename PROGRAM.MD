@@ -47,7 +47,7 @@ PS E:\Computer Science\Algorithms\algorithms\Basic Programs\EvenOrOdd> java Even
 5. Write a Java Program to print all the **Prime Factors** of the Given Number. [[Solution]](Numbers/PrimeFactors/PrimeFactors.java)
 6. Write a Java Program to check whether the Given Number is ***Prime Number or NOT***. [[Solution]](Numbers/PrimeNumber/PrimeNumber.java)
 7. Write a Java Program to print ***Prime Numbers from 1 to N***. [[Solution]](Numbers/PrimeNumberList/PrimeNumberList.java)
-8. Write a Java Program to check whether the given number is **Armstrong Number** or NOT.  [[Solution]](InterviewPrograms/src/com/java/numbers/ArmstrongNumber.java)
+8. Write a Java Program to check whether the given number is **Armstrong Number** or NOT.  [[Solution]](Numbers/ArmstrongNumber/ArmstrongNumber.java)
 9. Write a Java Program to print **Armstrong Numbers** between 1 to 1000. [[Solution]](InterviewPrograms/src/com/java/numbers/ArmstrongNumberList.java)
 10. Write a Java Program to check whether the given number is **Perfect Number** or NOT. [[Solution]](InterviewPrograms/src/com/java/numbers/PerfectNumber.java)
 11. Write a Java Program to print **Perfect Numbers** between 1 to 1000. [[Solution]](InterviewPrograms/src/com/java/numbers/PerfectNumberList.java)

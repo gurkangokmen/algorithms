@@ -36,7 +36,7 @@ PS E:\Computer Science\Algorithms\algorithms\Basic Programs\EvenOrOdd> java Even
 12. Write a Java Program to find ***sum of the digits of a given number***. [[Solution]](Basic%20Programs/SumOfDigits/SumOfDigits.java)
 13. Write a Java Program to ***find the smallest of 3 numbers*** (a,b,c) without using < or > symbol? [[Solution]](InterviewPrograms/src/com/java/numbers/FindTheSmallest.java)
 14. How to add two numbers without using the arithmetic operators in Java? [[Solution]](InterviewPrograms/src/com/java/numbers/AddWithoutPlus.java)
-15. Write a java program to ***Reverse a given number***. [[Solution]](InterviewPrograms/src/com/java/numbers/ReverseTheNumber.java)
+15. Write a java program to ***Reverse a given number***. [[Solution]](Basic%20Programs/ReverseTheNumber/ReverseTheNumber.java)
 
 #### 2. Numbers
 
